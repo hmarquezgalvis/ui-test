@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests of <VoteProgressBar /> should render and save the snapshot correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bczRLJ ckZYpz"
+  >
+    <div
+      class="sc-gsnTZi kIJNTc"
+    >
+      <img
+        alt="Thumbs Up"
+        src="thumbs-up.svg"
+      />
+      <span
+        class="sc-dkzDqf lbOcmF"
+      >
+        70.00%
+      </span>
+    </div>
+    <div
+      class="sc-gsnTZi kIJNTc"
+    >
+      <span
+        class="sc-dkzDqf lbOcmF"
+      >
+        30.00%
+      </span>
+      <img
+        alt="Thumbs Down"
+        src="thumbs-down.svg"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

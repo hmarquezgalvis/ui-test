@@ -1,5 +1,8 @@
 import React from 'react';
 
+import ThumbUpImage from '../../../assets/images/thumbs-up.svg';
+import ThumbDownImage from '../../../assets/images/thumbs-down.svg';
+
 export const Header = () => {
   return (
     <header className="hero">
@@ -28,10 +31,10 @@ export const Header = () => {
                   </p>
                   <div className="featured-card__buttons">
                       <button className="icon-button" aria-label="thumbs up">
-                          <img src="assets/images/thumbs-up.svg" alt="thumbs up" />
+                            <img src={ThumbUpImage} alt="Thumbs Up" />
                       </button>
                       <button className="icon-button" aria-label="thumbs down">
-                          <img src="assets/images/thumbs-down.svg" alt="thumbs down" />
+                            <img src={ThumbDownImage} alt="Thumbs Down" />
                       </button>
                   </div>
               </div>

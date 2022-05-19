@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests of Main should render and save the snapshot correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-eCYdqJ ectmOT"
+  >
+    <h2>
+      Previous Rulings
+    </h2>
+    <div
+      class="sc-bczRLJ bGOKaH"
+    >
+      <div
+        class="sc-gsnTZi kSpeQC current"
+      >
+        List 
+        <span
+          class="chevron"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-fLlhyt bYkOFR"
+  />
+</DocumentFragment>
+`;

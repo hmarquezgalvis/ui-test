@@ -1,6 +1,7 @@
 {
     "data": [
         {
+            "guid": "8bd53044-8d29-4e9b-8ce3-4f024e3443cb",
             "name": "Kanye West",
             "description": "Born in Atlanta and raised in Chicago, West was first known as a producer for Roc-A-Fella Records in the early 2000s, producing singles for several mainstream artists.",
             "category": "entertainment",
@@ -12,6 +13,7 @@
             }
         },
         {
+            "guid": "605ac13e-bb9f-4d1b-886a-0c79eb470d33",
             "name": "Mark Zuckerberg",
             "description": "Born in White Plains, New York, Zuckerberg attended Harvard University, where he launched the Facebook social networking service from his dormitory room on February 4, 2004.",
             "category": "business",
@@ -23,6 +25,7 @@
             }
         },
         {
+            "guid": "f34251ca-4e1d-442b-b97e-ddcc1fa7da14",
             "name": "Cristina Fernández de Kirchner",
             "description": "Her first term of office started with a conflict with the agricultural sector, and her proposed taxation system was rejected.",
             "category": "politics",
@@ -34,6 +37,7 @@
             }
         },
         {
+            "guid": "1c38d72b-4dd7-4baa-a35e-1c8db5afcfbd",
             "name": "Malala Yousafzai",
             "description": "The daughter of educational activist Ziauddin, Yousafzai was born to a Pashtun family in Mingora, Khyber Pakhtunkhwa, Pakistan. Her family came to run a chain of schools in the region.",
             "category": "politics",
@@ -45,6 +49,7 @@
             }
         },
         {
+            "guid": "e81d0484-0ac4-4087-a815-a9ef9a8e3e39",
             "name": "Elon Musk",
             "description": "In 2002, Musk founded SpaceX, an aerospace manufacturer and space transport services company, of which he is CEO, CTO, and lead designer.",
             "category": "business",
@@ -56,6 +61,7 @@
             }
         },
         {
+            "guid": "6e73bb32-7988-4d75-94c9-86900e94996d",
             "name": "Greta Thumberg",
             "description": "Thunberg's activism started after convincing her parents to adopt several lifestyle choices to reduce their own carbon footprint.",
             "category": "environment",
