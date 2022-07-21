@@ -13,6 +13,7 @@ exports[`tests of Main should render and save the snapshot correctly 1`] = `
     >
       <div
         class="sc-gsnTZi kSpeQC current"
+        data-testid="dropdown-value"
       >
         List 
         <span

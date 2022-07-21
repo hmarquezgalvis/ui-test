@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for <VoteBox />. should render and save the snapshot correctly. default state 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dkzDqf hhMSm"
+  >
+    <button
+      class="sc-bczRLJ hebTOi"
+    >
+      <img
+        alt=""
+        src="thumbs-up.svg"
+      />
+    </button>
+    <button
+      class="sc-bczRLJ dgfLAZ"
+    >
+      <img
+        alt=""
+        src="thumbs-down.svg"
+      />
+    </button>
+    <button
+      class="sc-hKMtZM RivLz"
+      disabled=""
+    >
+      Vote Now
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Tests for <VoteBox />. should render and save the snapshot correctly. voted state 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dkzDqf hhMSm"
+  >
+    <button
+      class="sc-hKMtZM RivLz"
+    >
+      Vote Again
+    </button>
+  </div>
+</DocumentFragment>
+`;

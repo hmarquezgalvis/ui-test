@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for Thumb Icons should render and save the snapshot correctly Thumb Down Icon 1`] = `
+<DocumentFragment>
+  <img
+    alt=""
+    src="thumbs-down.svg"
+  />
+</DocumentFragment>
+`;
+
+exports[`Tests for Thumb Icons should render and save the snapshot correctly Thumb Up Icon 1`] = `
+<DocumentFragment>
+  <img
+    alt=""
+    src="thumbs-up.svg"
+  />
+</DocumentFragment>
+`;

@@ -1,10 +1,8 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
-export const DropDown = ({ options, value, onSelected = () => {} }) => {
+export const DropDown = ({ value,  options = [], onSelected = () => {} }) => {
   const [isActive, setIsActive] = useState(false);
-
-  if (!options) return;
 
   const toggling = () => setIsActive(!isActive);
 
@@ -16,13 +14,14 @@ export const DropDown = ({ options, value, onSelected = () => {} }) => {
   return (
     <DropDownContainer>
       <DropDownSelected 
+        data-testid="dropdown-value"
         className='current'
         onClick={() => toggling()}
       >
         {value} <span className='chevron'></span>
       </DropDownSelected>
       {isActive && (
-        <DropDownList>
+        <DropDownList data-testid="dropdown-list">
           {options.map(item => (
             <DropDownListItem
               key={item}
